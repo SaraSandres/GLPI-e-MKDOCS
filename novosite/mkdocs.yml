@@ -1,0 +1,9 @@
+site_name: My Docs
+site_author: Sara S
+
+theme:
+  name: material
+  palette:
+    primary: pink
+
+    
